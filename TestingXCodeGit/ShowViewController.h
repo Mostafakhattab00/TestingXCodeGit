@@ -10,4 +10,7 @@
 
 @interface ShowViewController : UIViewController
 
+// this variable is created for some testing issues
+@property (nonatomic, strong) NSString *testSRT;
+
 @end
